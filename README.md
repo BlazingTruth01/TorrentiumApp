@@ -23,6 +23,8 @@ Go to the [Releases](https://github.com/itsZECHS/TorrentiumApp/releases) to down
 
 ## Usage
 
+https://user-images.githubusercontent.com/52543663/162825032-a0878669-9b3a-4788-81ed-7b1fd63aa3c4.mp4
+
 [See the deployment guide](https://github.com/itsZECHS/TorrentiumAPI).
 
 ### Note
